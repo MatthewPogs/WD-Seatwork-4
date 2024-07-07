@@ -54,7 +54,6 @@
 ---
 
 ## Overview
-Description of the project in details.
 
 The project focused on creating a visually appealing landing page and two feature layout designs. Emphasizing innovation and creativity to captivate the target audience, they mention the use of graphic design software, prototyping tools, and HTML/CSS for implementation. The primary goal is to develop striking designs that effectively highlight key features and set the product/service apart from competitors.
 
